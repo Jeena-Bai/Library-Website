@@ -1,0 +1,149 @@
+body{
+    background-image: url(./images/bg3.webp);
+    background-position:cover;
+   background-position:fixed;
+   background-size: 100%;
+  
+}
+
+    .nav-item{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color:white;
+        text-decoration: none;  /*remove underline*/
+        border: 1px solid white;
+        padding:5px;
+        margin:5px;
+        margin-top:9px;
+    }
+    .nav-item>a:hover
+    {
+        background-color: teal;
+        color:black;
+    }
+    img{
+        margin-left: 150px;
+        height:85px;
+    }
+    .textall
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left:430px;
+    margin-top:40px;
+}
+
+.formlog{
+    background-color: beige;
+    width:85%;
+    color:black;
+    float:right;
+
+}
+#log_b{
+    width:100%;
+}
+.form-label
+{
+    margin-top:10px;
+
+}
+.text
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left:400px;
+    margin-top:-10px;
+}
+.form{
+    background-color:white;
+    width:85%;
+    color:black;
+    float:right;
+   
+
+}
+#log{
+    width:100%;
+}
+.text1{
+    text-align: center;
+    margin-top:2px;
+}
+.form-control
+{
+    border:1px solid black;
+}
+.book
+{
+    font-size:39px;
+    color:black;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.card-img-top
+{
+    height:250px;
+    width:200px;
+    margin-top:20px;
+}
+.md
+{
+    margin-left:40px;
+    margin-bottom:5px;
+    margin-top:-10px;
+}
+.card-title
+{
+    text-align: center;
+}
+.card-group
+{
+    margin-left:20px;
+    margin-right:15px;
+    margin-bottom: 15px;
+}
+.card-title
+{
+    color:brown;
+    text-align:center;
+}
+.card1-body
+{
+    margin-top:20px;
+    text-align: justify;
+    width:300px;
+    margin-left:45px;
+    
+
+    
+}
+img
+{
+    margin-left: 20px;
+    margin-top:27px;
+    margin-bottom:20px;
+}
+.card{
+        margin-left:400px;
+        margin-top:20px;
+}
+.a{
+    margin-left:10px;
+}
+.b
+{
+    text-align:center;
+    color:white;
+    font-style:oblique;
+    font-weight: 25px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top:42px;
+}
+.c{
+    color:white;
+    text-align:center;
+
+}
+.d{
+    text-align: center;
+}
