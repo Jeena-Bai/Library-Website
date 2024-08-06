@@ -3,6 +3,7 @@ body{
     background-position:cover;
    background-position:fixed;
    background-size: 100%;
+   
   
 }
 
@@ -95,12 +96,7 @@ body{
 {
     text-align: center;
 }
-.card-group
-{
-    margin-left:20px;
-    margin-right:15px;
-    margin-bottom: 15px;
-}
+
 .card-title
 {
     color:brown;
@@ -122,10 +118,7 @@ img
     margin-top:27px;
     margin-bottom:20px;
 }
-.card{
-        margin-left:400px;
-        margin-top:20px;
-}
+
 .a{
     margin-left:10px;
 }
@@ -146,4 +139,9 @@ img
 }
 .d{
     text-align: center;
+}
+h1{
+   
+    font-weight:bolder;
+ 
 }
